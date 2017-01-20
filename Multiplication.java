@@ -17,7 +17,10 @@ class Multiplication extends Operations {
         multiplication = firstNum * secondNum;
 
         System.out.println("");
+        System.out.println("------------------------------------");
+        System.out.println("               Answer               ");        
         System.out.println("The multiplication of " + firstNum + " and " + secondNum + " is " + multiplication);
+        System.out.println("------------------------------------");
 
     }
 }

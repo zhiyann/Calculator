@@ -16,9 +16,12 @@ class Subtraction extends Operations {
 
         subtraction = firstNum - secondNum;
 
-        System.out.println("");
+        System.out.println("");        
+        System.out.println("------------------------------------");
+        System.out.println("               Answer               ");
         System.out.println("The subtraction of " + firstNum + " and " + secondNum + " is " + subtraction);
-
+        System.out.println("------------------------------------");
+        
     }
 
 }

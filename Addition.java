@@ -17,7 +17,10 @@ public class Addition extends Operations {
         addition = firstNum + secondNum;
 
         System.out.println("");
+        System.out.println("------------------------------------");
+        System.out.println("               Answer               ");
         System.out.println("The addition of " + firstNum + " and " + secondNum + " is " + addition);
+        System.out.println("------------------------------------");
 
     }
 

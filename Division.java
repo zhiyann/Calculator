@@ -17,7 +17,10 @@ class Division extends Operations {
         division = firstNum / secondNum;
 
         System.out.println("");
+        System.out.println("------------------------------------");
+        System.out.println("               Answer               ");
         System.out.println("The division of " + firstNum + " and " + secondNum + " is " + division);
+        System.out.println("------------------------------------");
 
     }
 
